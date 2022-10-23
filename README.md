@@ -24,6 +24,7 @@ Here are some ideas to get you started: -->
 <!-- [https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view](https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view) -->
 
 <!-- <h1 align="center">Hi 👋, I'm Raj Gupta</h1>
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 
@@ -32,7 +33,6 @@ Here are some ideas to get you started: -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-gupta-075648119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheetal-bisht-a75289202/" height="30" width="40" /></a>
 
 </p> -->
-
 
 
 <h1 align="center">Hi 👋, I'm Raj Gupta</h1>
