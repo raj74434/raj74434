@@ -56,7 +56,7 @@ Here are some ideas to get you started: -->
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj gupta" height="30" width="40" /></a>
 </p>
 
-<h2 align="left" style="margin-Top :20px">Languages and Tools:</h2>
+<h2 align="left" >Languages and Tools:</h2>
 
 <div style="display:flex;" align="left"> 
 
