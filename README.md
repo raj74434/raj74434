@@ -62,25 +62,32 @@ Here are some ideas to get you started: -->
 
 
 
-<div align="center" style="background-Color: transparent;margin-Top :30px;"  >
-<img align="center" 
-style="background-Color: transparent; "
-src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&locale=en&layout=compact" alt="raj74434" /></div>
+<!-- <div align="center" style="background-Color: transparent;margin-Top :30px;"  >
+</div> -->
 
-<div align="center" style="background-Color: transparent;margin-Top :30px">&nbsp;
+<!-- <div align="center" style="background-Color: transparent;margin-Top :30px">&nbsp;
 <img 
 align="center"
 style="background-Color: transparent;"
- src="https://github-readme-stats.vercel.app/api?username=raj74434&show_icons=true&locale=en" alt="raj74434" /></div>
+ src="https://github-readme-stats.vercel.app/api?username=raj74434&show_icons=true&locale=en" alt="raj74434" /></div> -->
 
-<div align="center" style="background-Color: transparent;margin-Top :30px">
+<!-- <div align="center" style="background-Color: transparent;margin-Top :30px">
 <img align="center" 
 style="background-Color: transparent;"
 src="https://github-readme-streak-stats.herokuapp.com/?user=raj74434&" alt="raj74434" /></div>
 
 
+ -->
+
+<img  
+src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&theme=react&hide_border=true&bg_color=0F1000" alt="raj74434" />
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raj74434&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=raj74434&theme=tokyonight&bg_color=0D1117">
 
+
+<img src ="https://activity-graph.herokuapp.com/graph?username=raj74434&custom_title=Raj%20Gupta%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
 
 
 
