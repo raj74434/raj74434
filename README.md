@@ -74,7 +74,7 @@ Here are some ideas to get you started: -->
  
  </p>
 
-<p style="background-color:transparent"  ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&locale=en&layout=compact" alt="raj74434" /></p>
+<p   ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&locale=en&layout=compact" alt="raj74434" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj74434&show_icons=true&locale=en" alt="raj74434" /></p>
 
