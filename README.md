@@ -79,8 +79,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=raj74434&" alt="raj7
 
  -->
 
-<img  
-src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&theme=react&hide_border=true&bg_color=0F1000" alt="raj74434" />
+<!-- <img  
+src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&theme=react&hide_border=true&bg_color=0F1000" alt="raj74434" /> -->
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raj74434&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 
