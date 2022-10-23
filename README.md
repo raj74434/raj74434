@@ -18,8 +18,8 @@ Here are some ideas to get you started: -->
 <!-- ](https://raj74434.github.io/) -->
 
 <!-- - 💬 Ask me about **Java, Java-Script** -->
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view"> My Resume</a>
+<!-- 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view"> My Resume</a> -->
 
 <!-- [https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view](https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view) -->
 
@@ -58,7 +58,7 @@ Here are some ideas to get you started: -->
 
 <h2 align="left" style="margin-Top :20px">Languages and Tools:</h2>
 
-<p style="display:flex;" align="left"> 
+<div style="display:flex;" align="left"> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
@@ -72,23 +72,23 @@ Here are some ideas to get you started: -->
 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  
- </p>
+ </div>
 
-<p align="center" style="background-Color: transparent;margin-Top :30px;"  >
+<div align="center" style="background-Color: transparent;margin-Top :30px;"  >
 <img align="left" 
 style="background-Color: transparent; "
-src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&locale=en&layout=compact" alt="raj74434" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&locale=en&layout=compact" alt="raj74434" /></div>
 
-<p align="center" style="background-Color: transparent;margin-Top :30px">&nbsp;
+<div align="center" style="background-Color: transparent;margin-Top :30px">&nbsp;
 <img 
 align="center"
 style="background-Color: transparent;"
- src="https://github-readme-stats.vercel.app/api?username=raj74434&show_icons=true&locale=en" alt="raj74434" /></p>
+ src="https://github-readme-stats.vercel.app/api?username=raj74434&show_icons=true&locale=en" alt="raj74434" /></div>
 
-<p align="center" style="background-Color: transparent;margin-Top :30px">
+<div align="center" style="background-Color: transparent;margin-Top :30px">
 <img align="center" 
 style="background-Color: transparent;"
-src="https://github-readme-streak-stats.herokuapp.com/?user=raj74434&" alt="raj74434" /></p>
+src="https://github-readme-streak-stats.herokuapp.com/?user=raj74434&" alt="raj74434" /></div>
 
 
 
