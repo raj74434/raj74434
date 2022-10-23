@@ -58,7 +58,7 @@ Here are some ideas to get you started: -->
 
 <h2 align="left" style="margin-Top :20px">Languages and Tools:</h2>
 
-<p style="display:flex" align="left"> 
+<p style="display:flex;" align="left"> 
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
@@ -74,15 +74,20 @@ Here are some ideas to get you started: -->
  
  </p>
 
-<p align="center" style="background-Color: transparent;"  ><img align="left" 
-style="background-Color: powderblue,margin-Top :20px"
+<p align="center" style="background-Color: transparent;margin-Top :30px;"  >
+<img align="left" 
+style="background-Color: transparent; "
 src="https://github-readme-stats.vercel.app/api/top-langs?username=raj74434&show_icons=true&locale=en&layout=compact" alt="raj74434" /></p>
 
-<p align="center" style="background-Color: transparent,margin-Top :50px">&nbsp;<img align="center"
-style="background-Color: powderblue;"
+<p align="center" style="background-Color: transparent;margin-Top :30px">&nbsp;
+<img 
+align="center"
+style="background-Color: transparent;"
  src="https://github-readme-stats.vercel.app/api?username=raj74434&show_icons=true&locale=en" alt="raj74434" /></p>
 
-<p align="center" style="background-Color: transparent,margin-Top :50px"><img align="center" style="background-Color: powderblue;"
+<p align="center" style="background-Color: transparent;margin-Top :30px">
+<img align="center" 
+style="background-Color: transparent;"
 src="https://github-readme-streak-stats.herokuapp.com/?user=raj74434&" alt="raj74434" /></p>
 
 
