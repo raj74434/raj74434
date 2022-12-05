@@ -36,6 +36,8 @@ Here are some ideas to get you started: -->
 
 
 <h1 align="center">Hi 👋, I'm Raj Gupta</h1>
+<p> Passionate about learn new tech and apply them in real world. </p>
+<p> Critical and Creative thinker... because both are inportant.</p>
 
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: rajgupta74434@gmail.com
