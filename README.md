@@ -35,8 +35,8 @@ Here are some ideas to get you started: -->
 </p> -->
 
 
-<h1 align="center">Hi 👋, I'm Raj Gupta</h1>
-<p> Passionate about learn new tech and apply them in real world.Critical and Creative thinker... because both are important. </p>
+<h1 align="center">Hi 👋, I'm Raj Gupta </h1>
+<p> Passionate about learn new tech and apply them in real world.Critical and Creative thinker..... because both are important. </p>
 <!-- <p> </p> -->
 
 - 🌱 I’m currently learning Java.
