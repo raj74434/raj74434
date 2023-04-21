@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
 <p> Passionate about learning new tech and applying them in the real world.Critical and Creative thinker..... because both are important. </p>
 <!-- <p> </p> -->
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java & React.
 - 📫 How to reach me: rajgupta74434@gmail.com
 - 👨‍💻 All of my projects are available <a href="https://raj74434.github.io/"> My Portfolio</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view"> My Resume</a>
