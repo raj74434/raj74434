@@ -83,8 +83,8 @@ Here are some ideas to get you started: -->
  <img src="https://logodix.com/logo/1614292.png" alt="mysql" width="60" height="40"/> </a>
  
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
- <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Maven-Apache-900x0.png" alt="Maven" width="70" height="40"
-  backgroundColor="grey"/> </a>
+ <img src="https://www.jrebel.com/sites/default/files/image/2020-07/image-blog-what-is-maven.jpg" alt="Maven" width="70" height="40"
+ /> </a>
 
   <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> 
  <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/04/featured.jpg" alt="React" width="70" height="40" /> </a>
