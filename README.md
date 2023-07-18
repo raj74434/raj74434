@@ -14,25 +14,7 @@ Here are some ideas to get you started: -->
 <!--- ⚡ Fun fact: ...-->
 <!-- - 🌱 I’m currently learning **Java** -->
 
-<!-- - 👨‍💻 All of my projects are available <a href="https://raj74434.github.io/"> My Portfolio</a> -->
-<!-- ](https://raj74434.github.io/) -->
 
-<!-- - 💬 Ask me about **Java, Java-Script** -->
-<!-- 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view"> My Resume</a> -->
-
-<!-- [https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view](https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view) -->
-
-<!-- <h1 align="center">Hi 👋, I'm Raj Gupta</h1>
-
-<h3 align="center">A passionate backend developer from India</h3>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-gupta-075648119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheetal-bisht-a75289202/" height="30" width="40" /></a>
-
-</p> -->
 
 
 <h1 align="center">Hi 👋, I'm Raj Gupta </h1>
