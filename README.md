@@ -22,7 +22,7 @@
 - 📫 How to reach me: rajgupta74434@gmail.com
 - 👨‍💻 All of my projects are available <a href="https://raj74434.github.io/"> My Portfolio</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1t1Mu2gSaumKBlH_aOplZBDtwG9F2k8Vs/view"> My Resume</a>
-- ⚡ Fun fact: We don't need any college to learn coding.
+- ⚡ Fun fact: We don't need any college to learn to code.
 
 <h3 align="center">A passionate backend developer from India</h3>
 
