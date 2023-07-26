@@ -9,7 +9,7 @@
 <!-- - 📫 How to reach me: rajgupta74434@gmail.com -->
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
-<!-- - 🌱 I’m currently learning **Java** -->
+
 
 
 
