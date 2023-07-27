@@ -8,7 +8,7 @@
 <!--- 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: rajgupta74434@gmail.com -->
 <!--- 😄 Pronouns: ...-->
-<!--- ⚡ Fun fact: ...-->
+
 
 
 
