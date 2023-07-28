@@ -5,7 +5,7 @@
 <!-- - 🌱 I’m currently learning Java. -->
 <!--- 👯 I’m looking to collaborate on ... -->
 <!--- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ... -->
+<!--- 💬 Ask me abou ... -->
 <!-- - 📫 How to reach me: rajgupta74434@gmail.com -->
 <!--- 😄 Pronouns: ...-->
 
